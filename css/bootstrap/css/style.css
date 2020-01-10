@@ -2,7 +2,7 @@
 @import url(https://fonts.googleapis.com/css?family=Montserrat);
 @import url(https://fonts.googleapis.com/css?family=Source+Sans+Pro:600,600italic);
 
-body { padding-top: 20px; padding-bottom: 40px; font-family: 'HelveticaNeue-Light','Merriweather', Georgia, Times; font-size: 18px; }
+body { padding-top: 20px; padding-bottom: 40px; font-family: 'Optima','HelveticaNeue-Light','Merriweather', Georgia, Times; font-size: 18px; }
 
 h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 { font-family:'Merriweather', Georgia, Times; font-weight: 700;}
 
